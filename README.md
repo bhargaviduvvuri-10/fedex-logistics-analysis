@@ -53,6 +53,7 @@ This project demonstrates how data analytics can improve logistics efficiency, r
 
 ## 📂 Dataset
 SCMS Delivery History Dataset
+https://drive.google.com/file/d/1G3sg45qaljQ9w-bB5i4-n7QAM59cR4xN/view?usp=sharing
 
 ---
 
