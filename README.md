@@ -48,6 +48,7 @@ Improve delivery performance, reduce freight cost, and enhance supply chain effi
 
 ## 🎯 Conclusion
 This project demonstrates how data analytics can improve logistics efficiency, reduce costs, and support better decision-making.
+Overall, the analysis highlights that optimizing shipment mode selection, improving vendor performance, and focusing on high-delay regions can significantly enhance delivery efficiency, reduce costs, and improve customer satisfaction.
 
 ---
 
